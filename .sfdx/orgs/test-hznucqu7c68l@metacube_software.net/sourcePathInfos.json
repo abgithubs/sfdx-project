@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511524771306,
+            "changeTime": 1511524771306,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511524771306,
+            "changeTime": 1511524771306,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511526105152,
+            "changeTime": 1511526105152,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511524771307,
+            "changeTime": 1511524771307,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511526106939,
+            "changeTime": 1511526106939,
+            "contentHash": "34e45a0c0d92a3fa60efbce643b00b8d39906161",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\classes\\FirstClass.cls",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\classes\\FirstClass.cls",
+            "isDirectory": false,
+            "size": 74,
+            "modifiedTime": 1511526089218,
+            "changeTime": 1511526106940,
+            "contentHash": "26b1eb3f87cd544a3aa0f4dbaea6e2b0add641fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\classes\\FirstClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject\\force-app\\main\\default\\classes\\FirstClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1511526089226,
+            "changeTime": 1511526106927,
+            "contentHash": "5d3ac46c1eaa42e16ae636eaabf2a2b6b44bbe54",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Anurag\\SFDX\\workspace\\TestProject",
+        {
+            "sourcePath": "C:\\Anurag\\SFDX\\workspace\\TestProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1511526106939,
+            "changeTime": 1511526106939,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
